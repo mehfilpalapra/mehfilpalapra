@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&color=00BFFF&center=true&vCenter=true&lines=Hi%2C+I'm+Mehfil+Palapra!;AI-Powered+Data+Analyst;Business+Intelligence+Specialist;Power+BI+%7C+Python+%7C+SQL+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&color=000000&center=true&vCenter=true&lines=Hi%2C+I'm+Mehfil+Palapra!;AI-Powered+Data+Analyst;Power+BI+%7C+Python+%7C+SQL+%7C+R+%7C+Excel;Transforming+Raw+Data+into+Business+Decisions" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -44,14 +45,20 @@
 | [Apollo Bike Sales](https://github.com/mehfilpalapra/Apollo-Bike-Sales-Dashboard) | Product-level sales performance | Power BI |
 
 ---
+---
 
-## 📥 Download My Resume
+## 📎 Resume Download
 
 <p align="center">
-  <a href="https://github.com/mehfilpalapra/mehfilpalapra/raw/main/CV_Mehfil.pdf" download>
-    <img src="https://img.shields.io/badge/📄%20Download%20Resume-CV_Mehfil-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Download Resume">
+  <a href="https://github.com/mehfilpalapra/mehfilpalapra/raw/main/CV_Mehfil.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%93%84%20Download%20CV_Mehfil.pdf-black?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=red" alt="Download Mehfil Resume" />
   </a>
 </p>
+
+<p align="center">
+  <em>Sharpened for recruiters – tailored for Data, AI, and Business Intelligence roles in UAE.</em>
+</p>
+
 
 ---
 
