@@ -90,14 +90,7 @@
   <a href="mailto:mehfilpp13@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png" height="40" alt="Email" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/mehfilpalapra">
-    <img src="https://img.icons8.com/glyph-neue/48/ffffff/github.png" height="40" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://portfolio-link-if-any.com">
-    <img src="https://img.icons8.com/external-flat-juicy-fish/48/external-portfolio-recruitment-agency-flat-flat-juicy-fish.png" height="40" alt="Portfolio" />
-  </a>
+ 
 </p>
 
 ---
