@@ -1,65 +1,61 @@
 <h1 align="center">
-  <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="35"/>
-  <span style="color:#00BFFF;"><strong>Mehfil Palapra</strong></span> — <span style="color:#FFA500;">AI-Powered Data Analyst</span> | <span style="color:#00FF99;">Business Intelligence Specialist</span>
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40"/>
+  <span style="color:#00CED1;"><strong>Mehfil Palapra</strong></span> — <span style="color:#FFA500;">AI-Powered Data Analyst</span> | <span style="color:#32CD32;">Business Intelligence Specialist</span>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF1493&center=true&vCenter=true&width=1000&lines=AI+%26+Data+Science+Graduate+%7C+Python+%7C+Power+BI+%7C+SQL+%7C+Excel;Building+UAE-Focused+Data+Dashboards+%26+Insights;Ready+for+Business+Impact+Roles+in+Dubai+%7C+Abu+Dhabi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=FF1493&center=true&vCenter=true&width=1000&lines=Data+Storyteller+%7C+Dashboard+Designer+%7C+AI+Engineer+in+Training;Turning+Raw+Data+into+Business+Decisions+%7C+UAE+Job+Seeker" />
 </p>
 
 ---
 
-## 🌟 Who Am I?
+## 💡 About Me
 
-💬 Hello! I’m **Mehfil**, an AI and Data Science graduate who transforms raw data into real decisions. My dashboards don’t just look good — they drive **action**, shape **strategy**, and improve **business performance**.
+I’m **Mehfil**, a tech-driven data analyst passionate about turning raw data into strategy using AI, BI tools, and beautiful dashboards.
 
-🚀 I specialize in:
-- Crafting **Power BI dashboards** that turn spreadsheets into business intelligence
-- Using **machine learning** to forecast, segment, and predict
-- Writing **clean Python code** and **SQL queries** that automate insight generation
-
-🇦🇪 I'm actively seeking **Data Analyst / BI Analyst** roles in **Dubai**, **Abu Dhabi**, or anywhere across the UAE.
-
----
-
+🚀 **Strengths**:
+- Power BI dashboards for business decisions  
+- Predictive ML models: Churn, Forecasting, Segmentation  
+- Tools: Python, SQL, Excel, Google Sheets, BigQuery  
+- Focused on business-ready storytelling & clean visual insights  
+- Seeking roles in **UAE – Dubai | Abu Dhabi**
 
 ---
 
-## 💼 What I Bring to the Table
+## 🧑‍💻 Quick Experience
 
-- ✅ **AI-powered insights** through machine learning, clustering & regression  
-- ✅ **Power BI dashboards** that drive marketing, churn reduction & inventory control  
-- ✅ **Data wrangling** across SQL, Excel, BigQuery, APIs  
-- ✅ **End-to-end data projects** from EDA to visualization  
-- ✅ **UAE-focused problem solving** with business context in telecom, retail, and health
+- 🎯 **MedTourEasy** – Built executive-level dashboards in Power BI  
+- 🧠 **Rubixe AI** – Data cleaning & ML intern (Python)  
+- ⚙️ **Nestsoft** – Python scripting intern  
+- 📊 **Tata BI Simulation** – Business case dashboards
 
 ---
 
-## 📄 Want to See My Work in Detail?
+## 📄 Resume
 
 <p align="center">
   <a href="https://github.com/mehfilpalapra/mehfilpalapra/raw/main/CV_Mehfil.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📥%20Click%20to%20Download%20Resume-FF5F6D?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=black" alt="Download Resume">
+    <img src="https://img.shields.io/badge/📥%20Download%20My%20Resume-CV_Mehfil-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=red" alt="Download Resume">
   </a>
 </p>
 
-<p align="center"><i>Resume tailored for UAE Data Analytics & Business Intelligence roles. Updated June 2025.</i></p>
+<p align="center"><i>Tailored for UAE-based Data Analyst & BI roles – June 2025</i></p>
 
 ---
 
-## 🧰 Tools & Technologies
+## 🛠 Tools & Technologies
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="48"/>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" title="Excel"/>
-  <img src="https://img.icons8.com/color/48/google-sheets.png" title="Google Sheets"/>
-  <img src="https://img.icons8.com/color/48/tableau-software.png" title="Tableau"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" width="48"/>
-  <img src="https://img.icons8.com/fluency/48/google-big-query.png" title="BigQuery"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"/>
+  <img src="https://img.icons8.com/color/48/google-sheets.png"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48"/>
+  <img src="https://img.icons8.com/fluency/48/google-big-query.png"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/>
 </p>
 
 ---
@@ -84,13 +80,11 @@
 ---
 
 ### 📞 Telecom Churn Prediction  
-- Predicts customers likely to leave a telecom service  
-- Includes logistic regression, EDA & visual interpretation  
+- Predicts likely churners with visual patterns  
 - 🔗 [View Project](https://github.com/mehfilpalapra/Telecom-Churn-Prediction)
 
 ### 💉 GiveLife Donation Predictor  
-- Predicts repeat blood donation likelihood  
-- Logistic classification model  
+- Logistic ML model for donor prediction  
 - 🔗 [View Project](https://github.com/mehfilpalapra/GiveLife-Blood-Donation-Prediction)
 
 ---
