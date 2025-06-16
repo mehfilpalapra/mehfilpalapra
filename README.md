@@ -28,7 +28,7 @@
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="40" />
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" height="40" />
   <img src="https://img.icons8.com/color/48/000000/canva.png" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/google-big-query.png" height="40" />
+  
 </p>
 
 ---
