@@ -1,21 +1,27 @@
 <h1 align="center">
-  <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="30"/>
-  <span style="color:#00CED1;"><strong>Mehfil Palapra</strong></span> — AI-Powered Data Analyst | Business Intelligence Strategist
+  <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="35"/>
+  <span style="color:#00BFFF;"><strong>Mehfil Palapra</strong></span> — <span style="color:#FFA500;">AI-Powered Data Analyst</span> | <span style="color:#00FF99;">Business Intelligence Specialist</span>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF1493&center=true&vCenter=true&width=1000&lines=AI+%26+Data+Science+Graduate+%7C+Python+%7C+Power+BI+%7C+SQL+%7C+Excel;Building+Decision+Intelligence+Dashboards+for+Business+Growth;Actively+seeking+Data+roles+in+UAE+%28Dubai%2C+Abu+Dhabi%29" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF1493&center=true&vCenter=true&width=1000&lines=AI+%26+Data+Science+Graduate+%7C+Python+%7C+Power+BI+%7C+SQL+%7C+Excel;Building+UAE-Focused+Data+Dashboards+%26+Insights;Ready+for+Business+Impact+Roles+in+Dubai+%7C+Abu+Dhabi" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🌟 About Me
+## 🌟 Who Am I?
 
-🎓 B.Tech in **Artificial Intelligence & Data Science**  
-📍 Based in India | **Open to relocate for UAE roles**  
-📊 Skilled in Python, Power BI, SQL, Excel, Google Sheets, R, BigQuery  
-💼 Internship experience at **MedTourEasy**, **Rubixe AI**, **Nestsoft**, and Tata simulations  
-📈 Dedicated to transforming business challenges into intelligent visual solutions  
+💬 Hello! I’m **Mehfil**, an AI and Data Science graduate who transforms raw data into real decisions. My dashboards don’t just look good — they drive **action**, shape **strategy**, and improve **business performance**.
+
+🚀 I specialize in:
+- Crafting **Power BI dashboards** that turn spreadsheets into business intelligence
+- Using **machine learning** to forecast, segment, and predict
+- Writing **clean Python code** and **SQL queries** that automate insight generation
+
+🇦🇪 I'm actively seeking **Data Analyst / BI Analyst** roles in **Dubai**, **Abu Dhabi**, or anywhere across the UAE.
+
+---
+
 
 ---
 
