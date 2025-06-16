@@ -1,93 +1,75 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#00BFFF;">Mehfil Palapra</span></h1>
-<h3 align="center">📊 Data Analyst | 💻 Python & Power BI Enthusiast | 🌍 Open to Opportunities in UAE 🇦🇪</h3>
-
+<h1 align="center">Hi there, I'm Mehfil Palapra 👋</h1>
+<h3 align="center">🚀 AI-Powered Data Analyst | Power BI Developer | Business Intelligence Specialist</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehfilpalapra&label=Profile%20views&color=0e75b6&style=flat" alt="mehfilpalapra" />
+  <img src="https://komarev.com/ghpvc/?username=mehfilpalapra&label=Profile%20Views&color=brightgreen&style=flat-square" alt="mehfilpalapra" />
 </p>
 
 ---
 
-## 👨‍💼 About Me
+## 🧠 About Me
 
 🎓 B.Tech in Artificial Intelligence & Data Science  
-📈 Certified Data Analyst (Google, IABAC)  
-🧠 Passionate about storytelling with data and building business dashboards  
-💼 Internship experience at **MedTourEasy** & **Rubixe AI Solutions**  
-🌍 Based in India, open to relocation across UAE (Dubai, Abu Dhabi, Sharjah)
+📊 Data Analyst with a strong foundation in AI, Business Intelligence & Visualization  
+📍 Based in India, seeking job opportunities in **Dubai / UAE**  
+💡 Passionate about data storytelling, dashboard design, and actionable insights  
+🎯 Goal: Helping businesses unlock growth through **AI-powered decisions**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tools, Tech & Platforms
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🧠 Skills
-- 📊 Data Analysis, BI Reporting, Data Visualization  
-- 🧮 Statistical Modeling, Predictive Analytics  
-- 🔍 Customer Segmentation, Churn Analysis  
-- 🛠 Dashboard Building, Storytelling with Data  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
 
 ---
 
-## 📁 Featured Projects
+## 📁 My Featured Projects
 
-| 🌟 Project | 💡 Description | 🧰 Tools |
+| 💼 Project | 🔍 Description | ⚙️ Tools |
 |-----------|----------------|----------|
-| [Customer Segmentation Dashboard](https://github.com/mehfilpalapra/Customer-Segmentation-Insights-Dashboard) | K-Means clustering + dashboard for marketing strategy | Python, Power BI |
-| [Sales Forecasting & Inventory Optimizer](https://github.com/mehfilpalapra/AI-Powered-Sales-Forecasting-Inventory-Optimizer) | Forecast sales trends, optimize stock levels | Python, Power BI |
-| [Telecom Churn Prediction](https://github.com/mehfilpalapra/Telecom-Churn-Prediction) | Classify customers at risk of leaving | Python, Sklearn |
-| [GiveLife Blood Donation Prediction](https://github.com/mehfilpalapra/GiveLife-Blood-Donation-Prediction) | Predict future donation likelihood | Python, ML |
+| [🧩 Customer Segmentation Dashboard](https://github.com/mehfilpalapra/Customer-Segmentation-Insights-Dashboard) | Clusters customers by income/spend using K-Means + Power BI | Python, Power BI |
+| [📦 AI Sales Forecast & Inventory Optimizer](https://github.com/mehfilpalapra/AI-Powered-Sales-Forecasting-Inventory-Optimizer) | Forecasts sales and optimizes inventory for retail firms | Python, Power BI |
+| [📞 Telecom Churn Prediction](https://github.com/mehfilpalapra/Telecom-Churn-Prediction) | Predicts customers likely to leave a telecom company | Python, Scikit-Learn |
+| [💉 Blood Donation Predictor - GiveLife](https://github.com/mehfilpalapra/GiveLife-Blood-Donation-Prediction) | Predicts next donation period using classification ML | Python, Pandas, ML |
+| [📊 Superstore Insights (Power BI)](https://github.com/mehfilpalapra/PowerBI-Superstore-Dashboard) | Business sales insights dashboard | Power BI |
+| [🚲 Apollo Bike Sales Dashboard](https://github.com/mehfilpalapra/Apollo-Bike-Sales-Dashboard) | Visual insights for product category performance | Power BI |
 
 ---
 
-## 📈 GitHub Stats & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehfilpalapra&theme=flat&column=7" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehfilpalapra&show_icons=true&theme=vue" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehfilpalapra&layout=compact&theme=vue" height="180px"/>
-</p>
-
----
-
-## 📎 Resume
+## 📥 Download My Resume
 
 <p align="center">
   <a href="https://github.com/mehfilpalapra/mehfilpalapra/blob/main/CV_Mehfil.pdf" target="_blank">
-    <img alt="Download Resume" src="https://img.shields.io/badge/Download%20Resume-CV_Mehfil-blue?style=for-the-badge&logo=readthedocs">
+    <img src="https://img.shields.io/badge/📄%20Download%20CV-CV_Mehfil-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Download Resume">
   </a>
 </p>
 
 ---
 
-## 📊 Power BI Dashboard Preview (optional)
+## 📊 GitHub Stats
 
-
-![Customer Segmentation   Marketing Insights Dashboard](https://github.com/user-attachments/assets/5eb8632b-50b2-4f62-894e-dc5bc74a2e65)
-
-![AI_Sales_Forecast_Dashboard](https://github.com/user-attachments/assets/0b07d19f-528c-43e5-b2c0-3fd6b8a6cc02)
-
-
-
-
-
- 📬 Let’s Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mehfil-palapra)
-- ✉️ Email: mehfilpp13@gmail.com
-- 🧠 GitHub: [@mehfilpalapra](https://github.com/mehfilpalapra)
-- 📍 Location: India (Relocating to Dubai/UAE)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehfilpalapra&show_icons=true&theme=vision-friendly-dark" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehfilpalapra&layout=compact&theme=vision-friendly-dark" width="48%"/>
+</p>
 
 ---
 
-⭐ *If you like what I do, consider giving a star to my projects or let's collaborate on data solutions!*
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mehfil-palapra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mehfilpp13@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/mehfilpalapra" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+⭐ _“Turning Data into Direction — let’s shape the future with insights!”_
