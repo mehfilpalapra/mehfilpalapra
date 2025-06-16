@@ -74,9 +74,10 @@
 
 > Upload your screenshots as `dashboard1.png`, `dashboard2.png` in this repo and update below
 
-```
-![Customer Segmentation](dashboard1.png)
-![Sales Forecast](dashboard2.png)
+```![Customer Segmentation   Marketing Insights Dashboard](https://github.com/user-attachments/assets/5eb8632b-50b2-4f62-894e-dc5bc74a2e65)
+
+!![AI_Sales_Forecast_Dashboard](https://github.com/user-attachments/assets/0b07d19f-528c-43e5-b2c0-3fd6b8a6cc02)
+
 ```
 
 ---
