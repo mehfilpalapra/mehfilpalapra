@@ -77,11 +77,11 @@
 
 ![AI_Sales_Forecast_Dashboard](https://github.com/user-attachments/assets/0b07d19f-528c-43e5-b2c0-3fd6b8a6cc02)
 
-```
 
 
 
-# 📬 Let’s Connect
+
+ 📬 Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mehfil-palapra)
 - ✉️ Email: mehfilpp13@gmail.com
