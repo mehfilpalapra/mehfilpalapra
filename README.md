@@ -65,29 +65,43 @@
 
 ---
 
-## 📊 GitHub Stats
+---
+
+## 📊 GitHub Insights & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehfilpalapra&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehfilpalapra&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mehfilpalapra&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehfilpalapra&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehfilpalapra&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&custom_title=GitHub+Profile+Stats" width="100%" />
 </p>
 
 ---
 
-## 🌐 Let's Connect
+## 🤝 Let’s Connect & Collaborate
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mehfil-palapra" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" height="40" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:mehfilpp13@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" height="40" alt="Email" />
   </a>
-  <a href="https://github.com/mehfilpalapra" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/mehfilpalapra">
+    <img src="https://img.icons8.com/glyph-neue/48/ffffff/github.png" height="40" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://portfolio-link-if-any.com">
+    <img src="https://img.icons8.com/external-flat-juicy-fish/48/external-portfolio-recruitment-agency-flat-flat-juicy-fish.png" height="40" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-⭐ _“Empowering businesses with Artificial Intelligence, Data, and Insightful Dashboards.”_
+⭐ _“Empowering businesses through Artificial Intelligence, Smart Dashboards & Data Intelligence.”_
+
+
