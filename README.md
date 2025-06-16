@@ -1,75 +1,93 @@
-<h1 align="center">Hi there, I'm Mehfil Palapra 👋</h1>
-<h3 align="center">🚀 AI-Powered Data Analyst | Power BI Developer | Business Intelligence Specialist</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehfilpalapra&label=Profile%20Views&color=brightgreen&style=flat-square" alt="mehfilpalapra" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&color=00BFFF&center=true&vCenter=true&lines=Hi%2C+I'm+Mehfil+Palapra!;AI-Powered+Data+Analyst;Business+Intelligence+Specialist;Power+BI+%7C+Python+%7C+SQL+Developer" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🔥 About Me
 
-🎓 B.Tech in Artificial Intelligence & Data Science  
-📊 Data Analyst with a strong foundation in AI, Business Intelligence & Visualization  
-📍 Based in India, seeking job opportunities in **Dubai / UAE**  
-💡 Passionate about data storytelling, dashboard design, and actionable insights  
-🎯 Goal: Helping businesses unlock growth through **AI-powered decisions**
+🎓 **B.Tech in Artificial Intelligence & Data Science**  
+📍 Based in India | Open to work in **Dubai / UAE**  
+💼 Interned at **MedTourEasy**, **Rubixe AI**, **Nestsoft Technologies**  
+🔎 AI-Driven Data Analyst with expertise in actionable business dashboards  
+📊 Passionate about customer analytics, automation, and BI storytelling  
 
 ---
 
-## 🛠 Tools, Tech & Platforms
+## 🧰 Tools & Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/google-sheets.png" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/canva.png" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/google-big-query.png" height="40" />
 </p>
 
 ---
 
-## 📁 My Featured Projects
+## 📁 Featured Projects
 
-| 💼 Project | 🔍 Description | ⚙️ Tools |
+| 📌 Project | 🔍 Description | ⚙️ Tools |
 |-----------|----------------|----------|
-| [🧩 Customer Segmentation Dashboard](https://github.com/mehfilpalapra/Customer-Segmentation-Insights-Dashboard) | Clusters customers by income/spend using K-Means + Power BI | Python, Power BI |
-| [📦 AI Sales Forecast & Inventory Optimizer](https://github.com/mehfilpalapra/AI-Powered-Sales-Forecasting-Inventory-Optimizer) | Forecasts sales and optimizes inventory for retail firms | Python, Power BI |
-| [📞 Telecom Churn Prediction](https://github.com/mehfilpalapra/Telecom-Churn-Prediction) | Predicts customers likely to leave a telecom company | Python, Scikit-Learn |
-| [💉 Blood Donation Predictor - GiveLife](https://github.com/mehfilpalapra/GiveLife-Blood-Donation-Prediction) | Predicts next donation period using classification ML | Python, Pandas, ML |
-| [📊 Superstore Insights (Power BI)](https://github.com/mehfilpalapra/PowerBI-Superstore-Dashboard) | Business sales insights dashboard | Power BI |
-| [🚲 Apollo Bike Sales Dashboard](https://github.com/mehfilpalapra/Apollo-Bike-Sales-Dashboard) | Visual insights for product category performance | Power BI |
+| [Customer Segmentation Dashboard](https://github.com/mehfilpalapra/Customer-Segmentation-Insights-Dashboard) | Classifies customer types using KMeans + Power BI | Python, Power BI |
+| [AI Sales Forecasting & Inventory](https://github.com/mehfilpalapra/AI-Powered-Sales-Forecasting-Inventory-Optimizer) | Predicts sales & optimizes inventory strategy | Python, Power BI |
+| [Telecom Churn Prediction](https://github.com/mehfilpalapra/Telecom-Churn-Prediction) | Identifies customers likely to leave | Python, Sklearn |
+| [GiveLife Donation Predictor](https://github.com/mehfilpalapra/GiveLife-Blood-Donation-Prediction) | Predicts next blood donation date | Python |
+| [Superstore Power BI Dashboard](https://github.com/mehfilpalapra/PowerBI-Superstore-Dashboard) | Interactive business visualizations | Power BI |
+| [Apollo Bike Sales](https://github.com/mehfilpalapra/Apollo-Bike-Sales-Dashboard) | Product-level sales performance | Power BI |
 
 ---
 
 ## 📥 Download My Resume
 
 <p align="center">
-  <a href="https://github.com/mehfilpalapra/mehfilpalapra/blob/main/CV_Mehfil.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄%20Download%20CV-CV_Mehfil-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Download Resume">
+  <a href="https://github.com/mehfilpalapra/mehfilpalapra/raw/main/CV_Mehfil.pdf" download>
+    <img src="https://img.shields.io/badge/📄%20Download%20Resume-CV_Mehfil-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Download Resume">
   </a>
 </p>
+
+---
+
+## 📸 Dashboard Preview
+
+### 🧠 AI Sales Forecast Dashboard
+![AI Sales Forecast](AI_Sales_Forecast_Dashboard.png)
+
+### 🎯 Customer Segmentation & Marketing Insights
+![Customer Segmentation](Customer%20Segmentation%20&%20Marketing%20Insights%20Dashboard.png)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehfilpalapra&show_icons=true&theme=vision-friendly-dark" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehfilpalapra&layout=compact&theme=vision-friendly-dark" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mehfilpalapra&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehfilpalapra&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mehfil-palapra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mehfilpp13@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/mehfilpalapra" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mehfil-palapra" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mehfilpp13@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/mehfilpalapra" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-⭐ _“Turning Data into Direction — let’s shape the future with insights!”_
+⭐ _“Empowering businesses with Artificial Intelligence, Data, and Insightful Dashboards.”_
