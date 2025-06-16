@@ -1,107 +1,98 @@
+<h1 align="center">💡 Mehfil Palapra — AI-Powered Data Analyst | Business Intelligence Specialist</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&color=000000&center=true&vCenter=true&lines=Hi%2C+I'm+Mehfil+Palapra!;AI-Powered+Data+Analyst;Power+BI+%7C+Python+%7C+SQL+%7C+R+%7C+Excel;Transforming+Raw+Data+into+Business+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0080FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Portfolio;B.Tech+in+AI+%26+Data+Science;Transforming+Data+into+Business+Insights;Open+to+Roles+in+UAE+%28Dubai%2C+Abu+Dhabi%29" alt="Typing Banner" />
 </p>
 
+---
+
+## 🚀 About Me
+
+🎓 B.Tech in **Artificial Intelligence and Data Science**  
+🔍 Open to **Data Analyst**, **Business Intelligence**, and **AI Analyst** roles  
+🌍 Based in India | Actively seeking opportunities in **UAE (Dubai / Abu Dhabi)**  
+📊 Skilled in **Power BI, Python, SQL, Excel, R**, and more  
+📈 Passionate about delivering **data-driven decisions** through visual storytelling and predictive modeling
 
 ---
 
-## 🔥 About Me
-
-🎓 **B.Tech in Artificial Intelligence & Data Science**  
-📍 Based in India | Open to work in **Dubai / UAE**  
-💼 Interned at **MedTourEasy**, **Rubixe AI**, **Nestsoft Technologies**  
-🔎 AI-Driven Data Analyst with expertise in actionable business dashboards  
-📊 Passionate about customer analytics, automation, and BI storytelling  
-
----
-
-## 🧰 Tools & Tech Stack
+## 💼 Resume
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/google-sheets.png" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/canva.png" height="40" />
-  
+  <a href="https://github.com/mehfilpalapra/mehfilpalapra/raw/main/CV_Mehfil.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20Download%20Resume-CV_Mehfil-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=red" alt="Download Resume">
+  </a>
+</p>
+
+---
+
+## 🛠 Tools & Technologies
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="40" />
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" />
+  <img src="https://img.icons8.com/color/48/google-sheets.png" width="40" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40" />
+  <img src="https://img.icons8.com/fluency/48/google-big-query.png" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://img.icons8.com/color/48/tableau-software.png" width="40" />
 </p>
 
 ---
 
 ## 📁 Featured Projects
 
-| 📌 Project | 🔍 Description | ⚙️ Tools |
-|-----------|----------------|----------|
-| [Customer Segmentation Dashboard](https://github.com/mehfilpalapra/Customer-Segmentation-Insights-Dashboard) | Classifies customer types using KMeans + Power BI | Python, Power BI |
-| [AI Sales Forecasting & Inventory](https://github.com/mehfilpalapra/AI-Powered-Sales-Forecasting-Inventory-Optimizer) | Predicts sales & optimizes inventory strategy | Python, Power BI |
-| [Telecom Churn Prediction](https://github.com/mehfilpalapra/Telecom-Churn-Prediction) | Identifies customers likely to leave | Python, Sklearn |
-| [GiveLife Donation Predictor](https://github.com/mehfilpalapra/GiveLife-Blood-Donation-Prediction) | Predicts next blood donation date | Python |
-| [Superstore Power BI Dashboard](https://github.com/mehfilpalapra/PowerBI-Superstore-Dashboard) | Interactive business visualizations | Power BI |
-| [Apollo Bike Sales](https://github.com/mehfilpalapra/Apollo-Bike-Sales-Dashboard) | Product-level sales performance | Power BI |
+### 🧠 Customer Segmentation & Marketing Insights
+- Clustered customers using KMeans (Python)
+- Built an interactive Power BI dashboard
+- [🔗 View Project](https://github.com/mehfilpalapra/Customer-Segmentation-Insights-Dashboard)
+
+### 📈 AI-Powered Sales Forecasting & Inventory Optimizer
+- Predictive regression modeling
+- Built using Power BI + Python
+- [🔗 View Project](https://github.com/mehfilpalapra/AI-Powered-Sales-Forecasting-Inventory-Optimizer)
+
+### 📞 Telecom Churn Prediction
+- Classification model using Logistic Regression, Random Forest
+- Identified churn patterns in telecom data
+- [🔗 View Project](https://github.com/mehfilpalapra/Telecom-Churn-Prediction)
+
+### 💉 GiveLife Blood Donation Predictor
+- Predicted likelihood of donation return
+- [🔗 View Project](https://github.com/mehfilpalapra/GiveLife-Blood-Donation-Prediction)
 
 ---
----
 
-## 📎 Resume Download
+## 📊 GitHub Insights
 
 <p align="center">
-  <a href="https://github.com/mehfilpalapra/mehfilpalapra/raw/main/CV_Mehfil.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%93%84%20Download%20CV_Mehfil.pdf-black?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=red" alt="Download Mehfil Resume" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=mehfilpalapra&show_icons=true&theme=radical&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehfilpalapra&layout=compact&theme=radical" width="49%" />
 </p>
 
 <p align="center">
-  <em>Sharpened for recruiters – tailored for Data, AI, and Business Intelligence roles in UAE.</em>
-</p>
-
-
----
-
-## 📸 Dashboard Preview
-
-### 🧠 AI Sales Forecast Dashboard
-![AI Sales Forecast](AI_Sales_Forecast_Dashboard.png)
-
-### 🎯 Customer Segmentation & Marketing Insights
-![Customer Segmentation](Customer%20Segmentation%20&%20Marketing%20Insights%20Dashboard.png)
-
----
-
----
-
-## 📊 GitHub Insights & Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mehfilpalapra&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehfilpalapra&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehfilpalapra&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&custom_title=GitHub+Profile+Stats" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mehfilpalapra&theme=radical&row=1&column=6" />
 </p>
 
 ---
 
-## 🤝 Let’s Connect & Collaborate
+## 🌐 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mehfil-palapra" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" height="40" alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="35" />
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:mehfilpp13@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" height="40" alt="Email" />
+    <img src="https://img.icons8.com/color/48/gmail.png" width="35" />
   </a>
- 
+  <a href="https://github.com/mehfilpalapra">
+    <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="35" />
+  </a>
 </p>
 
 ---
 
-⭐ _“Empowering businesses through Artificial Intelligence, Smart Dashboards & Data Intelligence.”_
-
-
+<p align="center"><i>“Driven by AI, backed by data — I transform complexity into clarity.”</i></p>
