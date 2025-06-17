@@ -1,24 +1,27 @@
-<!-- Banner Header -->
+<!-- 🌟 TOP BANNER -->
 <p align="center">
-  <img src="banner.png" alt="GitHub Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/mehfilpalapra/mehfilpalapra/main/banner.png" alt="Banner" width="100%" />
 </p>
 
-<!-- About Me Card -->
+<!-- 👋 ABOUT ME CARD -->
 <p align="center">
-  <img src="aboutme_card.png" alt="About Mehfil" width="700px"/>
-</p>
-
-<!-- Skills Strip -->
-<p align="center">
-  <img src="skills_strip.png" alt="Skills & Tools" width="100%"/>
-</p>
-
-<!-- Divider -->
-<p align="center">
-  <img src="divider.png" alt="Section Divider" width="80%"/>
+  <img src="https://raw.githubusercontent.com/mehfilpalapra/mehfilpalapra/main/aboutme_card.png" alt="About Mehfil" width="700px" />
 </p>
 
 ---
+
+<!-- 🛠 SKILLS STRIP -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mehfilpalapra/mehfilpalapra/main/skills_strip.png" alt="Skills and Tools" width="100%" />
+</p>
+
+---
+
+<!-- 🌊 SECTION DIVIDER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mehfilpalapra/mehfilpalapra/main/divider.png" alt="Divider" width="80%" />
+</p>
+
 
 ## 🧑‍💻 Quick Experience
 
