@@ -21,21 +21,21 @@
 🛠️ Loves combining **Python, SQL & Power BI** to bring clarity to business problems.
 
 ---
+---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python" />
-  <img src="https://img.icons8.com/color/48/microsoft-power-bi.png" title="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL" />
-  <img src="https://img.icons8.com/color/48/google-sheets.png" title="Google Sheets"/>
-  <img src="https://img.icons8.com/color/48/000000/google-bigquery.png" title="BigQuery"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" title="Excel"/>
-  <img src="https://img.icons8.com/color/48/tableau-software.png" title="Tableau"/>
-  <img src="https://img.icons8.com/color/48/github.png" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/microsoft-power-bi.png" title="Power BI" alt="Power BI" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/google-sheets.png" title="Google Sheets" alt="Google Sheets" width="50" height="50"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/google-bigquery.png" title="BigQuery" alt="BigQuery" width="50" height="50"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" title="Microsoft Excel" alt="Excel" width="50" height="50"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/tableau-software.png" title="Tableau" alt="Tableau" width="50" height="50"/>&nbsp;
+  <img src="https://img.icons8.com/ios-filled/50/github.png" title="GitHub" alt="GitHub" width="50" height="50"/>
 </p>
 
----
 
 ## 📜 Certifications
 
