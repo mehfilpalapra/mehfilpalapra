@@ -54,7 +54,6 @@ I’m **Mehfil**, a tech-driven data analyst passionate about turning raw data i
   <img src="https://img.icons8.com/color/48/google-sheets.png"/>
   <img src="https://img.icons8.com/color/48/tableau-software.png"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48"/>
-  <img src="https://img.icons8.com/fluency/48/google-big-query.png"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/>
 </p>
