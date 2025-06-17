@@ -50,15 +50,20 @@
 | Tata Data Visualization Simulation | Tata Group |
 
 ---
+---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehfilpalapra&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mehfilpalapra&theme=tokyonight&hide_border=true" width="48%"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mehfilpalapra&show_icons=true&theme=radical&rank_icon=github&hide_title=false&include_all_commits=true&count_private=true&border_radius=12&hide_border=false" alt="Mehfil's GitHub stats"/>
+
+  <img width="48%" src="https://streak-stats.demolab.com?user=mehfilpalapra&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&border_radius=12" alt="Mehfil's GitHub streak"/>
 </p>
 
----
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehfilpalapra&layout=compact&theme=radical&langs_count=10&hide_border=false&border_radius=12" alt="Top Languages"/>
+</p>
+
 
 ## 📬 Let's Connect
 
