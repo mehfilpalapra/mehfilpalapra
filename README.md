@@ -1,24 +1,22 @@
-<h1 align="center">
-  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40"/>
-  <span style="color:#00CED1;"><strong>Mehfil Palapra</strong></span> — <span style="color:#FFA500;">AI-Powered Data Analyst</span> | <span style="color:#32CD32;">Business Intelligence Specialist</span>
-</h1>
-
+<!-- Banner Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=FF1493&center=true&vCenter=true&width=1000&lines=Data+Storyteller+%7C+Dashboard+Designer+%7C+AI+Engineer+in+Training;Turning+Raw+Data+into+Business+Decisions+%7C+UAE+Job+Seeker" />
+  <img src="banner.png" alt="GitHub Banner" width="100%"/>
 </p>
 
----
+<!-- About Me Card -->
+<p align="center">
+  <img src="aboutme_card.png" alt="About Mehfil" width="700px"/>
+</p>
 
-## 💡 About Me
+<!-- Skills Strip -->
+<p align="center">
+  <img src="skills_strip.png" alt="Skills & Tools" width="100%"/>
+</p>
 
-I’m **Mehfil**, a tech-driven data analyst passionate about turning raw data into strategy using AI, BI tools, and beautiful dashboards.
-
-🚀 **Strengths**:
-- Power BI dashboards for business decisions  
-- Predictive ML models: Churn, Forecasting, Segmentation  
-- Tools: Python, SQL, Excel, Google Sheets, BigQuery  
-- Focused on business-ready storytelling & clean visual insights  
-- Seeking roles in **UAE – Dubai | Abu Dhabi**
+<!-- Divider -->
+<p align="center">
+  <img src="divider.png" alt="Section Divider" width="80%"/>
+</p>
 
 ---
 
