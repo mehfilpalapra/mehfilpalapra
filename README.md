@@ -24,17 +24,18 @@
 ---
 
 ## 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/microsoft-power-bi.png" title="Power BI" alt="Power BI" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/google-sheets.png" title="Google Sheets" alt="Google Sheets" width="50" height="50"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/google-bigquery.png" title="BigQuery" alt="BigQuery" width="50" height="50"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" title="Microsoft Excel" alt="Excel" width="50" height="50"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/tableau-software.png" title="Tableau" alt="Tableau" width="50" height="50"/>&nbsp;
-  <img src="https://img.icons8.com/ios-filled/50/github.png" title="GitHub" alt="GitHub" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"/>
+  <img src="https://img.icons8.com/color/48/google-sheets.png"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/>
 </p>
+
 
 
 ## 📜 Certifications
