@@ -55,13 +55,7 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake Animation
 
-<p align="center">
-  <img src="https://github.com/mehfilpalapra/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
-</p>
-
----
 
 ## 📬 Let’s Connect
 
