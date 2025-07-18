@@ -63,7 +63,7 @@
   <a href="https://www.linkedin.com/in/mehfil-palapra/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="40" />
   </a>
-  <a href="mailto:mehfilpalapra@gmail.com">
+  <a href="mailto:mehfilpp13@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" />
   </a>
   <a href="https://github.com/mehfilpalapra" target="_blank">
