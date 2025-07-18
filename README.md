@@ -42,6 +42,14 @@
 
 ---
 
+## Download My CV
+
+For a detailed overview of my skills, projects, and credentials, you can download my latest CV here:
+
+[Download CV (PDF)](https://github.com/mehfilpalapra/mehfilpalapra/raw/main/CV_Mehfil.pdf)
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
