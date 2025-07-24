@@ -46,7 +46,7 @@
 
 For a detailed overview of my skills, projects, and credentials, you can download my latest CV here:
 
-[Download CV (PDF)](https://github.com/mehfilpalapra/mehfilpalapra/raw/main/CV_Mehfil.pdf)
+https://github.com/mehfilpalapra/mehfilpalapra/blob/main/Mehfil%20Palapra%20Resume.pdf
 
 ---
 
