@@ -42,11 +42,15 @@
 
 ---
 
-## Download My CV
+---
 
-For a detailed overview of my skills, projects, and credentials, you can download my latest CV here:
+## 📄 Download My CV
 
-https://github.com/mehfilpalapra/mehfilpalapra/blob/main/Mehfil%20Palapra%20Resume.pdf
+Looking to learn more about my work, skills, and experience?
+
+➡️ [Click here to download my updated resume (Mehfil Palapra Resume.pdf)](https://github.com/mehfilpalapra/mehfilpalapra/raw/main/Mehfil%20Palapra%20Resume.pdf)
+
+
 
 ---
 
