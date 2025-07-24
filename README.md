@@ -44,15 +44,15 @@
 
 ---
 
-## 🚀 Download My CV — AI-Powered Analyst | UAE-Focused | Resume 2025
+## 📥 Download My CV —  AI-Powered Analyst Resume
 
-💡 Ready to hire a **future-forward Data & Business Analyst** skilled in AI, forecasting, and data storytelling?  
-Grab the latest version of my CV crafted for top-tier UAE companies.
+🚀 Looking for a **Data & Business Analyst** with AI expertise, Power BI dashboards, and real-world forecasting skills?  
+🎯 Here’s my **professionally tailored CV** designed for the job market.
 
 <div align="center">
 
   <a href="https://github.com/mehfilpalapra/mehfilpalapra/raw/main/Mehfil%20Palapra%20Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20My%20CV-Ultra%20HD%20Resume-green?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=black&color=brightgreen" alt="Download Resume"/>
+    <img src="https://img.shields.io/badge/⬇️%20Click%20Here%20to%20Download%20CV-Mehfil%20Palapra's%20Resume-F700FF?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=FF0080&color=6A00FF" alt="Download CV"/>
   </a>
 
 </div>
