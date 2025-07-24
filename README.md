@@ -44,13 +44,19 @@
 
 ---
 
-## 📄 Download My CV
 
-Looking to learn more about my work, skills, and experience?
+## 📥 Download My CV
 
-➡️ [Click here to download my updated resume (Mehfil Palapra Resume.pdf)](https://github.com/mehfilpalapra/mehfilpalapra/raw/main/Mehfil%20Palapra%20Resume.pdf)
+🎯 **Looking for a results-driven, AI-powered Data & Business Analyst ready for the UAE market?**  
+Grab my latest resume and discover how I bring data to life with real-world insights and intelligent storytelling.
 
+<div align="center">
+  
+  <a href="https://github.com/mehfilpalapra/mehfilpalapra/raw/main/Mehfil%20Palapra%20Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-Click%20Here-blue?style=for-the-badge&logo=readthedocs" alt="Download Resume Badge"/>
+  </a>
 
+</div>
 
 ---
 
