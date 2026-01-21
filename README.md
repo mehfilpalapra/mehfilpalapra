@@ -1,6 +1,6 @@
    
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mehfilpalapra/mehfilpalapra/main/A_digital_graphic_profile_card_introduces_Mehfil_P.png" width="100%" />
+  <img src="https://github.com/mehfilpalapra/mehfilpalapra/blob/main/Gemini_Generated_Image_p6xip6p6xip6p6xi.png" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Mehfil — AI-Powered Data Analyst 🌍</h1>
