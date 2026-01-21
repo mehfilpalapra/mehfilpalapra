@@ -51,7 +51,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/mehfilpalapra/mehfilpalapra/raw/main/Mehfil%20Palapra%20Resume.pdf" target="_blank">
+  <a href="https://github.com/mehfilpalapra/mehfilpalapra/blob/main/MehfilPalapra_CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/⬇️%20Click%20Here%20to%20Download%20CV-Mehfil%20Palapra's%20Resume-F700FF?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=FF0080&color=6A00FF" alt="Download CV"/>
   </a>
 
