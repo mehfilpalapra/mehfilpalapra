@@ -1,95 +1,42 @@
-   
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mehfilpalapra/mehfilpalapra/main/A_digital_graphic_profile_card_introduces_Mehfil_P.png" width="100%" />
-</p>
+# Mehfil Palapra  
+AI & Data Analyst | Power BI | Python | SQL | UAE
 
-<h1 align="center">Hi, I'm Mehfil — AI-Powered Data Analyst 🌍</h1>
+## Profile
+B.Tech graduate in Artificial Intelligence and Data Science with hands-on experience in data analytics, business intelligence, and AI-assisted analysis. Experienced in building Power BI dashboards, cleaning and validating datasets, and delivering actionable insights for business decision-making. Actively targeting Data Analyst and Business Analyst roles in the UAE.
 
-<p align="center">
-  B.Tech (AI & Data Science) graduate | Certified Data Analyst (Google & IABAC) | Power BI | Python | SQL | Excel  
-  <br>
-  Passionate about building dashboards, extracting insights, and turning data into business decisions. Focused on roles in UAE.
-</p>
+## Core Skills
+- Data Analysis and Reporting: SQL, Excel (Advanced formulas, Pivot Tables), Power BI  
+- Programming and Analytics: Python (Pandas, NumPy, EDA), basic ML and forecasting  
+- Business Intelligence: KPI design, dashboard development, stakeholder reporting  
+- Data Management: Data cleaning, validation, documentation, workflow standardization  
 
----
+## Experience Highlights
+- Developed interactive Power BI dashboards for operational and business metrics  
+- Performed exploratory data analysis to identify trends, anomalies, and inefficiencies  
+- Worked with real-world datasets across healthcare, sales, and operations domains  
+- Supported data-driven decision-making through structured reporting  
 
-## 🛠 Tech Stack
+## Certifications
+- Google Data Analytics Professional Certificate  
+- Certified Data Analyst – IABAC  
+- Tata Group – Data Visualization Job Simulation  
+- Data Analytics Internships: Rubixe AI Solutions, MedTourEasy  
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"/>
-  <img src="https://img.icons8.com/color/48/google-sheets.png"/>
-  <img src="https://img.icons8.com/color/48/tableau-software.png"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/>
-</p>
+## Selected Projects
+- Revenue Leakage Detector and Business Loss Recovery System  
+  AI-powered Power BI dashboard integrating Python-based anomaly detection to identify revenue loss scenarios and recovery opportunities.
 
----
+- Smart Review Intelligence System  
+  NLP-based sentiment analysis system with Power BI visualizations to track customer feedback trends.
 
-## 📜 Certifications
+(See repositories below for full documentation and dashboards.)
 
-| Certification | Issued By |
-|---------------|-----------|
-| Google Data Analytics Professional Certificate | Google |
-| Certified Data Analyst | IABAC |
-| Python Programming Intern | Nestsoft Technologies |
-| Data Analyst Internship | Rubixe AI |
-| Data Analytics Internship | MedTourEasy |
-| Data Visualization Simulation | Tata Group |
+## Resume
+Download CV:  
+https://github.com/mehfilpalapra/mehfilpalapra/raw/main/Mehfil_Palapra_CV_UAE.pdf
 
----
-
----
-
-## 📥 Download My CV —  AI-Powered Analyst Resume
-
-🚀 Looking for a **Data & Business Analyst** with AI expertise, Power BI dashboards, and real-world forecasting skills?  
-🎯 Here’s my **professionally tailored CV** designed for the job market.
-
-<div align="center">
-
-  <a href="https://github.com/mehfilpalapra/mehfilpalapra/blob/main/MehfilPalapra_CV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️%20Click%20Here%20to%20Download%20CV-Mehfil%20Palapra's%20Resume-F700FF?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=FF0080&color=6A00FF" alt="Download CV"/>
-  </a>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mehfilpalapra&show_icons=true&theme=radical&rank_icon=github&hide_title=false&include_all_commits=true&count_private=true&border_radius=12&hide_border=false" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=mehfilpalapra&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&border_radius=12" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehfilpalapra&layout=compact&theme=radical&langs_count=10&hide_border=false&border_radius=12" />
-</p>
-
----
-
-
-
-## 📬 Let’s Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mehfil-palapra/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" />
-  </a>
-  <a href="mailto:mehfilpp13@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" />
-  </a>
-  <a href="https://github.com/mehfilpalapra" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/github.png" width="40" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  ✨ Designed with 💻, data, and a touch of AI brilliance – ready to impress UAE recruiters.
-</p>
+## Contact
+LinkedIn: https://www.linkedin.com/in/mehfil-palapra  
+Email: mehfilpp13@gmail.com  
+GitHub: https://github.com/mehfilpalapra  
+Location: Dubai, UAE
