@@ -2,7 +2,7 @@
 <h3 align="center">AI-Powered Data Analyst | Turning Data into Business Impact</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mehfilpalapra/mehfilpalapra/main/banner.png" width="100%" alt="AI Data Analyst Banner"/>
+  <img src="https://github.com/mehfilpalapra/mehfilpalapra/blob/main/Gemini_Generated_Image_p6xip6p6xip6p6xi.png" width="100%" alt="AI Data Analyst Banner"/>
 </p>
 
 <p align="center">
