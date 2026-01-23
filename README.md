@@ -1,123 +1,130 @@
-<div align="center">
-
-<h1 style="font-size:48px;">Mehfil Palapra</h1>
-
-<h2 style="font-size:26px; color:#6A00FF;">
-AI-Powered Data Analyst • Business Analytics • UAE
-</h2>
-
-<p style="font-size:18px; max-width:900px;">
-Turning raw data into clear, actionable business insights using AI, analytics, and visualization.
-</p>
-
-</div>
-
-<br/>
+<h1 align="center" style="font-size:42px;">
+Hi, I'm Mehfil — AI-Powered Data Analyst 🌍
+</h1>
 
 <p align="center">
-B.Tech in Artificial Intelligence & Data Science | Google & IABAC Certified Data Analyst  
+  <img 
+    src="https://github.com/mehfilpalapra/mehfilpalapra/blob/main/Gemini_Generated_Image_p6xip6p6xip6p6xi.png" 
+    width="100%" 
+    alt="AI Data Analyst Banner"
+  />
+</p>
+
+<p align="center" style="font-size:18px; line-height:1.7;">
+  <b>B.Tech (AI & Data Science)</b> · Certified Data Analyst (Google & IABAC) <br/>
+  Power BI · Python · SQL · Excel <br/><br/>
+  Passionate about building dashboards, extracting insights, and turning data into business decisions. <br/>
+  <b>Actively seeking Data Analyst / Business Analyst roles in the UAE.</b>
+</p>
+
+<hr/>
+
+<h2 style="font-size:28px;">🛠 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/64/power-bi.png" title="Power BI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64"/>
+  <img src="https://img.icons8.com/color/64/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/64/microsoft-excel-2019--v1.png"/>
+  <img src="https://img.icons8.com/color/64/google-sheets.png"/>
+  <img src="https://img.icons8.com/color/64/tableau-software.png"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="64"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="64"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="64"/>
+</p>
+
+<hr/>
+
+<h2 style="font-size:28px;">📜 Certifications</h2>
+
+<table>
+  <tr>
+    <th align="left">Certification</th>
+    <th align="left">Issued By</th>
+  </tr>
+  <tr>
+    <td>Google Data Analytics Professional Certificate</td>
+    <td>Google</td>
+  </tr>
+  <tr>
+    <td>Certified Data Analyst</td>
+    <td>IABAC</td>
+  </tr>
+  <tr>
+    <td>Python Programming Internship</td>
+    <td>Nestsoft Technologies</td>
+  </tr>
+  <tr>
+    <td>Data Analyst Internship</td>
+    <td>Rubixe AI</td>
+  </tr>
+  <tr>
+    <td>Data Analytics Internship</td>
+    <td>MedTourEasy</td>
+  </tr>
+  <tr>
+    <td>Data Visualization Job Simulation</td>
+    <td>Tata Group</td>
+  </tr>
+</table>
+
+<hr/>
+
+<h2 style="font-size:28px;">📥 Download My CV — AI-Powered Analyst Resume</h2>
+
+<p style="font-size:18px; line-height:1.7;">
+Looking for a <b>Data & Business Analyst</b> with AI expertise, Power BI dashboards, and real-world analytics experience?
 <br/>
-Power BI • Python • SQL • Excel • Business Analytics  
-<br/>
-Targeting Data & Business Analyst roles in UAE
+Here’s my professionally tailored CV designed for the UAE job market.
 </p>
-
----
-
-## 🚀 About Me
-
-## 🌟 About Me
-
-<p style="font-size:18px; line-height:1.7; max-width:1000px;">
-I am a <b>Data Analyst with an Artificial Intelligence background</b>, focused on building dashboards, automating analysis, and delivering insights that support real business decisions.
-<br/><br/>
-My work combines <b>Power BI, Python, SQL, and Excel</b> with a strong understanding of business workflows.  
-I prioritize <b>clarity, accuracy, and impact</b> over cosmetic analysis.
-</p>
-
-
----
-## 🎯 Career Objective
-
-<p style="font-size:18px; line-height:1.7; max-width:1000px;">
-I am actively seeking <b>Data Analyst / Business Analyst</b> opportunities in the UAE, where I can apply AI-driven analytics, Power BI dashboards, and data automation to support business decision-making.
-<br/><br/>
-Available for immediate joining and open to full-time, on-site or hybrid roles.
-</p>
-
----
-## 🛠 Tech Stack
-
-<p align="center"> <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/> <img src="https://img.icons8.com/color/48/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"/> <img src="https://img.icons8.com/color/48/google-sheets.png"/> <img src="https://img.icons8.com/color/48/tableau-software.png"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/> </p>
-
----
-
-## 📜 Certifications & Experience
-
-| Credential | Organization |
-|----------|-------------|
-| Google Data Analytics Professional Certificate | Google |
-| Certified Data Analyst | IABAC |
-| Data Analytics Intern | Rubixe AI Solutions |
-| Data Analytics Intern | MedTourEasy |
-| Python Programming Intern | Nestsoft Technologies |
-| Data Visualization Job Simulation | Tata Group |
-
----
-
-## 📥 Download My Resume (AI-Powered Analyst)
 
 <p align="center">
   <a href="https://github.com/mehfilpalapra/mehfilpalapra/blob/main/MehfilPalapra_CV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Resume-AI%20Powered%20Analyst-6A00FF?style=for-the-badge&logo=googledrive&logoColor=white"/>
+    <img 
+      src="https://img.shields.io/badge/Download%20My%20CV-AI%20Powered%20Resume-6A00FF?style=for-the-badge&logo=googledrive&logoColor=white" 
+      alt="Download CV"
+    />
   </a>
 </p>
 
-<p align="center">
-Professionally tailored for UAE recruiters  
-<br/>
-Power BI dashboards • AI projects • Business analytics
-</p>
+<hr/>
 
----
-
-## 📊 GitHub Performance
+<h2 style="font-size:28px;">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mehfilpalapra&show_icons=true&theme=tokyonight&border_radius=14"/>
-  <img width="48%" src="https://streak-stats.demolab.com?user=mehfilpalapra&theme=tokyonight&border_radius=14"/>
+  <img 
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api?username=mehfilpalapra&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=14" 
+  />
+  <img 
+    width="48%" 
+    src="https://streak-stats.demolab.com?user=mehfilpalapra&theme=radical&border_radius=14" 
+  />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehfilpalapra&layout=compact&theme=tokyonight&border_radius=14"/>
+  <img 
+    width="60%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehfilpalapra&layout=compact&theme=radical&langs_count=10&border_radius=14" 
+  />
 </p>
 
----
+<hr/>
 
-## 🌐 Let’s Connect
+<h2 style="font-size:28px;">📬 Let’s Connect</h2>
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/mehfil-palapra/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:mehfilpp13@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/mehfilpalapra">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-<p style="font-size:16px;">
-<b>Designed like a portfolio. Built for recruiters. Powered by data.</b>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mehfil-palapra/" target="_blank">
+    <img src="https://img.icons8.com/color/64/linkedin.png"/>
+  </a>
+  <a href="mailto:mehfilpp13@gmail.com">
+    <img src="https://img.icons8.com/color/64/gmail-new.png"/>
+  </a>
+  <a href="https://github.com/mehfilpalapra" target="_blank">
+    <img src="https://img.icons8.com/fluency/64/github.png"/>
+  </a>
 </p>
-</div>
-Built with data, clarity, and AI — engineered to stand out in the UAE job market.
+
+<p align="center" style="font-size:16px;">
+Designed with data, precision, and AI — built to impress UAE recruiters.
 </p>
